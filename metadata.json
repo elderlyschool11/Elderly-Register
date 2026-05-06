@@ -1,0 +1,6 @@
+{
+  "name": "Elderly Link - ระบบลงทะเบียนอายุ",
+  "description": "แอปพลิเคชันลงทะเบียนข้อมูลผู้สูงอายุ รองรับการใช้งานผ่าน LINE LIFF พร้อมระบบจัดการข้อมูลที่ปลอดภัย",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
